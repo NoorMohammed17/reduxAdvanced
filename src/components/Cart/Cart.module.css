@@ -5,8 +5,10 @@
 }
 
 .cart h2 {
+  text-align: center;
   font-size: 1.25rem;
   margin: 0.5rem 0;
+  color: #1ad1b9;
 }
 
 .cart ul {
